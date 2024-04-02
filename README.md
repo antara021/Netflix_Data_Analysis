@@ -8,7 +8,8 @@ Our project's goal was to take a deep dive into various aspects of Netflix such 
 
 Here are the public links to our Tableau Dashboards:
 
-1 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject2/NetflixDashboard3IMDBScoreandLanguageAnalysis
-2 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject3/NetflixDashboard2SubscriptionandRevenueAnalysis
-3 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject4/NetflixDashboard1GenresRatingsindifferentCountries
-4 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject/NetflixDashboard4SubscriptionTypesindifferentCountries
+1 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject2/NetflixDashboard3IMDBScoreandLanguageAnalysis \n
+2 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject3/NetflixDashboard2SubscriptionandRevenueAnalysis \n
+3 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject4/NetflixDashboard1GenresRatingsindifferentCountries \n
+4 - https://public.tableau.com/app/profile/antara.chansarkar/viz/NetflixDataAnalyisDashboardDWBIFinalProject/NetflixDashboard4SubscriptionTypesindifferentCountries \n
+ 
